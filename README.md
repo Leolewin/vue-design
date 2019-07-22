@@ -1,1 +1,1 @@
-I don’t want to say
+commit记录里有老得版本的vue源码分析，包含了从头到尾的分析，记得提取出来
